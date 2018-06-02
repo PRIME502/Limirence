@@ -1,0 +1,17 @@
+h1 {
+    font-size: 5em;
+    color: #1e30ff;
+    text-align: center;
+    font-family: "Bodoni 72 Oldstyle";
+}
+
+h6 {
+    font-size: 3em;
+    color: #ff9719;
+    text-align: center;
+    font-family: "Apple Braille";
+}
+
+body {
+    background-color: rgba(0,0,0,0.5);
+}
